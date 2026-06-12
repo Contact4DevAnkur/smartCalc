@@ -154,7 +154,7 @@ fun HeaderSection(
     Row(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(vertical = 12.dp),
+            .padding(vertical = 10.dp),
         horizontalArrangement = Arrangement.SpaceBetween,
         verticalAlignment = Alignment.CenterVertically
     ) {
@@ -163,26 +163,13 @@ fun HeaderSection(
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.spacedBy(8.dp)
         ) {
-            Box(
-                modifier = Modifier
-                    .size(8.dp)
-                    .clip(CircleShape)
-                    .background(MathGreen)
-            )
             Column {
                 Text(
-                    text = "v${BuildConfig.VERSION_NAME}",
+                    text = "Smart Calc",
                     fontSize = 12.sp,
                     fontWeight = FontWeight.Bold,
                     color = MaterialTheme.colorScheme.onBackground,
                     letterSpacing = 2.sp
-                )
-                Text(
-                    text = "MINIMAL EDITION",
-                    fontSize = 9.sp,
-                    fontWeight = FontWeight.Light,
-                    color = MaterialTheme.colorScheme.onSurface,
-                    letterSpacing = 1.sp
                 )
             }
         }

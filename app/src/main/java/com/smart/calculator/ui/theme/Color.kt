@@ -21,6 +21,6 @@ val AccentGray = Color(0xFF1A1A1A)      // Keypad Button default background
 val AccentLightGray = Color(0xFFEFEFEF) // Light Keypad Button background
 
 val MathPurple = Color(0xFFA0A0A0)      // Sleek subtle gray accents for helper triggers
-val MathGreen = Color(0xFF00FF94)       // Beautiful Mint Green
+val MathGreen = Color(0xFF02914A)       // Beautiful Mint Green
 val SecondaryBlack = Color(0xFF222222)   // Helper math button colors
 val DeepDarkBlack = Color(0xFF111111)    // Scientific rows auxiliary keys
