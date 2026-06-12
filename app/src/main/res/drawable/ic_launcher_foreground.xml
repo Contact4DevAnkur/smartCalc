@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Beautiful Calculator Grid Icon in Center -->
+    <path
+        android:fillColor="#006cfa"
+        android:pathData="M30,30h48v48H30z"/>
+    <!-- Mathematical Symbols Grid in white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,38h10v2h-10z M60,38h10v2h-10z M65,33h12v12h-2z M35,60h12v2h-12z"/>
+</vector>

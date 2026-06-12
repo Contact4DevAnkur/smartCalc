@@ -1,0 +1,11 @@
+{
+  "name": "smart-calculator-android",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Android runtime active'",
+    "build": "echo 'Android build active'",
+    "clean": "echo 'Cleaning'"
+  }
+}

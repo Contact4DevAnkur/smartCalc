@@ -1,0 +1,6 @@
+{
+  "name": "Smart Calculator",
+  "description": "A native Android smart calculator app featuring scientific calculations, dark mode, a persistent history log, and a mudra (currency) converter, built with Kotlin and Jetpack Compose under MVVM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
